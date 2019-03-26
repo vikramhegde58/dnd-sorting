@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/vikramhegde58/dnd-sorting/issues"
   },
-  "homepage": "https://github.com/vikramhegde58/dnd-sorting#readme"
+  "homepage": "https://github.com/vikramhegde58/dnd-sorting#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
