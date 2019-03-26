@@ -1,0 +1,27 @@
+{
+  "name": "dnd-sorting",
+  "version": "1.0.0",
+  "description": "a library to implement sorting of elements by drag and drop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramhegde58/dnd-sorting.git"
+  },
+  "keywords": [
+    "sorting",
+    "drag",
+    "and",
+    "drop",
+    "ordering",
+    "arranging"
+  ],
+  "author": "vikramhegde58",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikramhegde58/dnd-sorting/issues"
+  },
+  "homepage": "https://github.com/vikramhegde58/dnd-sorting#readme"
+}
